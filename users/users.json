@@ -1,0 +1,8 @@
+// key: value --> username: file_name.json
+{
+	"user1" : {
+		"file_name": "",
+		"password": "",
+		"is_logged_in":""
+	}
+}
