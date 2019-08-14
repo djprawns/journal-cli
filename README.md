@@ -17,9 +17,13 @@ Give examples
 ### Installing
 
 ```1) python setup.py sdist```
+
 ```2) sudo python setup.py install```
+
 ```3) twine upload --skip-existing dist/*```
+
 ```4) pip3 install journal-cli```
+
 ```5) Type journal-cli in the command line```
 
 
